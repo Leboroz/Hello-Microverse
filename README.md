@@ -1,75 +1,54 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> One paragraph statement about the project.
+> This is my first repository in the microverse technical curriculum.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./hello-microverse-display.png)
 
-Additional description about the project and its features.
+This project contains a header styled with css.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+-HTML
+-CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://leboroz.github.io/Hello-Microverse/views)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+  - Git installed
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+  - open a terminal
+  - run ``` git clone https://github.com/Leboroz/Hello-Microverse.git```
+  - run ``` cd Hello-Microverse/views```
+  - open index.html
 
 ## Authors
 
-👤 **Author1**
+👤 **Leonardo Albornoz**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Leboroz](https://github.com/leboroz)
+- Twitter: [@twitterhandle](https://twitter.com/leboroz)
+- LinkedIn: [Leonardo Albornoz](https://www.linkedin.com/in/leonardo-albornoz-216784198/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Leboroz/Hello-Microverse/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
